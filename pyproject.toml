@@ -20,7 +20,7 @@ requires = ["hatchling==1.25.0"]
 build-backend = "hatchling.build"
 
 [project]
-name = "apache-airflow-client_v1"
+name = "apache-airflow-client-v1"
 dynamic = ["version"]
 description = "Apache Airflow API (Stable)"
 readme = "README.md"
